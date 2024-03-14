@@ -42,7 +42,7 @@ t: Perform Taubin smoothing (40 iterations).
 ## Features
 - Dual Operation
 - Catmull-Clark Subdivision
-- Midpoint Subdivision to create geodic sphere
+- Midpoint Subdivision to create geodesic sphere
 - Laplacian Smoothing
 - Taubin Smoothing
 - Random Noise to the mesh
